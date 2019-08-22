@@ -1,4 +1,5 @@
-# SILENT BOT
-Gabungan scrif chucky
-Instll kayak biasa
-git clone https://github.com/virojano19/silentbo
+Installation  <br> 
+git clone https://github.com/virojano19/silentbot  <br> 
+cd silentbot <br> 
+nano  <br> 
+python3   <br>
